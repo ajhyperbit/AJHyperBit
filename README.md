@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajhyperbit)](https://github.com/ajhyperbit/github-readme-stats)
+[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajhyperbit&show_icons=true&theme=radical)](https://github.com/ajhyperbit/github-readme-stats)
 
 
 <!--
