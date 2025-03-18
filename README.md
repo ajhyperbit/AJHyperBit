@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-[![AJ's GitHub stats](https://ajhyperbit-github-readme-stats.vercel.app/api?username=ajhyperbit&show_icons=true&theme=transparent)](https://github.com/ajhyperbit/github-readme-stats)
-
+<a align="center" href="https://github.com/AJHyperBit">
+  <img align="center" src="https://ajhyperbit-github-readme-stats.vercel.app/api?username=ajhyperbit&theme=transparent" />
+  <img align="center" src="https://ajhyperbit-github-readme-stats.vercel.app/api/top-langs/?username=ajhyperbit&theme=transparent&layout=compact" />
+</a>
 
 <!--
 **ajhyperbit/AJHyperBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
