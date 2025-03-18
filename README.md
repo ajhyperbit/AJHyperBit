@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajhyperbit)](https://github.com/ajhyperbit/github-readme-stats)
+
+
 <!--
 **ajhyperbit/AJHyperBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
