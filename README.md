@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![AJ's GitHub stats](https://https://github-readme-stats-topaz-alpha-33.vercel.app/api?username=ajhyperbit&show_icons=true&theme=transparent)](https://github.com/ajhyperbit/github-readme-stats)
+[![AJ's GitHub stats](https://ajhyperbit-github-readme-stats.vercel.app/api?username=ajhyperbit&show_icons=true&theme=transparent)](https://github.com/ajhyperbit/github-readme-stats)
 
 
 <!--
